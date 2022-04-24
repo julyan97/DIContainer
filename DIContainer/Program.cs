@@ -40,12 +40,6 @@ namespace DIContainer
             Console.WriteLine();
             Console.WriteLine("Here: ");
 
-            //Type t = typeof(OuterTest);
-
-            //Object[] arguments = { "emo", false };
-
-            //t.GetConstructorWithTheMostAguments().Invoke(arguments);
-            //Object o = Activator.CreateInstance(t, arguments);
 
 
         }
